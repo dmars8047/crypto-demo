@@ -1,2 +1,2 @@
 # crypto-demo
- Demo of cryptography.
+ Demonstration of cryptography
